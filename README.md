@@ -1,8 +1,8 @@
 # Javiipardo:
-¡Hola! 👋
-Soy estudiante de Ingeniería Informática 🖥️ en mi último año 🎓.
-Descubrí la ciberseguridad 🔒 hace poco y desde entonces me he centrado en el pentesting 🕵️‍♂️.
-Llevo varios meses practicando con CTFs y actualmente me estoy preparando para la certificación eJPT 🎯.
+¡Hola! 👋<br>
+Soy estudiante de Ingeniería Informática 🖥️ en mi último año 🎓.<br>
+Descubrí la ciberseguridad 🔒 hace poco y desde entonces me he centrado en el pentesting 🕵️‍♂️.<br>
+Llevo varios meses practicando con CTFs y actualmente me estoy preparando para la certificación eJPT 🎯.<br>
 Siempre buscando nuevos retos y aprendiendo más cada día 📚.
 
 
