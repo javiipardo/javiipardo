@@ -1,6 +1,6 @@
 # Javiipardo:
 ¡Hola! 👋<br>
-Soy **Junior Software Engineer** especializado en el ecosistema **backend con .NET** 💻, actualmente trabajando en el sector energético ⚡.<br>
+Soy **Software Engineer** especializado en el ecosistema **backend con .NET** 💻, actualmente trabajando en el sector energético ⚡.<br>
 Compagino mi etapa laboral con el **Máster Universitario en Ingeniería Informática** (UCLM) 🎓 para seguir mejorando mis perfiles en arquitectura avanzada y buenas prácticas.<br>
 Además, mantengo un gran interés por la **ciberseguridad** 🔒, dedicando mi tiempo libre a investigar y formarme de manera autodidacta 🕵️‍♂️.<br>
 Siempre buscando nuevos retos e implicado en construir soluciones de software robustas y escalables 🚀.
